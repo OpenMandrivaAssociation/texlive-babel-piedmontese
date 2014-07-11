@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-babel-piedmontese
 Version:	20131013
-Release:	6
+Release:	7
 Summary:	TeXLive babel-piedmontese package
 Group:		Publishing
 URL:		http://tug.org/texlive
